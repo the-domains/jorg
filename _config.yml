@@ -1,0 +1,28 @@
+name: Jorg
+favicon: null
+layout_spectrum: 0.8262613040860742
+typography_spectrum: 0.5225244970060885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2984845177270472
+  lightness: 0.6871835398487747
+  saturation: 0.929679803783074
+  rhythmicContrast: 0.17956160893663764
+purpose: []
